@@ -1,6 +1,6 @@
 # Web Kazıma
 
-Bu repo, bireysel silahlanma ve suç istatistikleri üzerine yapılan bir araştırma projesi için web scraping işlemlerini içermektedir. Bu scraping scriptleri, çeşitli web sitelerinden ilgili verileri toplamak ve işlemek için kullanılmaktadır.
+Bu repo, bireysel silahlanma ve suç istatistikleri üzerine yapılan bir araştırma projesi için web kazıma işlemlerini içermektedir. Bu scraping scriptleri, çeşitli web sitelerinden ilgili verileri toplamak ve işlemek için kullanılmaktadır.
 
 ## İçindekiler
 
