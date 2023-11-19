@@ -17,7 +17,7 @@ while True:
 					table.drop(column_to_delete, axis=1, inplace=True)
 
 			elif menu_selection == 2:
-				menu_selection = input("(r/l) <index>\nExample: (rigth 3)\nInput: ")
+				menu_selection = input("(r/l) <index>\nExample: (r 3)\nInput: ")
 				command, index = menu_selection.split()
 				index = int(index)
 				if command.lower() == "r":
